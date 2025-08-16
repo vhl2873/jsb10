@@ -1,0 +1,21 @@
+.box{
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+    background-color: blueviolet;
+}
+.box1{
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(45, 199, 21);
+}
+.box3{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(196, 116, 17);
+}
